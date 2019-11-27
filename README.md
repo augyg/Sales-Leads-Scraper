@@ -25,6 +25,6 @@ in their territory. Currently working on this as a contract for Xerox in my spar
 my behance to see our super rough lo-fi but functionally descriptive designs: https://www.behance.net/spro064040a3
 
 
-#This was a proof of concept!!
+# This was a proof of concept!!
 
 Currently remaking this in Haskell and Elm because functional programming is even more beautiful than late-night runs to Popeyes
