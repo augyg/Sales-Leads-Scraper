@@ -4,7 +4,7 @@ I started working at a Xerox sales agency as an Inside Sales Rep. The accounts I
 
 call were almost completely useless: I had zero data on who I was talking to and it also took 
 
-an extremely long time just to load my next account to call with the companies CRM. I suggested 
+an extremely long time just to load my next account to call with the companies slow, laggy CRM. I suggested 
 
 to them that I build this tool that would provide a rep a streamlined source data so that they could 
 
