@@ -23,3 +23,8 @@ efficiently and reducing driving time spent just for the sake of finding where l
 in their territory. Currently working on this as a contract for Xerox in my spare time :):) Check out 
 
 my behance to see our super rough lo-fi but functionally descriptive designs: https://www.behance.net/spro064040a3
+
+
+#This was a proof of concept!!
+
+Currently remaking this in Haskell and Elm because functional programming is even more beautiful than late-night runs to Popeyes
